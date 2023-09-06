@@ -1,0 +1,4 @@
+1)	sysname=Linux
+  version=#57~18.04.1-Ubuntu SMP Sun Sep 12 22:52:33 UTC 2021
+2)	GCC 64-bit
+3)	64
